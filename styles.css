@@ -1,3 +1,31 @@
 * {
     color: green;
+    background-color: black;
+    font-family: sans-serif;
+    font-variant: small-caps;
   }
+
+.landing {
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 70px;
+    text-shadow: 2px 2px yellow;
+    text-align: center;
+  }
+
+  .description {
+    text-align: center;
+    font-size: 30px;
+  }
+
+
+  .recipe {
+display: flex;
+  }
+
+figure {
+  display: inline-block;
+}
+

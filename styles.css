@@ -1,3 +1,5 @@
+
+
 * {
     color: green;
     background-color: black;
@@ -15,6 +17,10 @@
     text-align: center;
   }
 
+  h2 {
+    color:yellow;
+    text-align: center;
+  }
   .description {
     text-align: center;
     font-size: 30px;
